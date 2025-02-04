@@ -1,3 +1,0 @@
-interface Bird {
-    void fly();
-}
