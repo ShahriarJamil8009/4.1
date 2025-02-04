@@ -1,3 +1,10 @@
+/* 
+2. PET Management System  
+Write a Java program to demonstrate a PET management system, which could be a PET shop, PET care, or PET service.
+Ensure you follow appropriate object-oriented design concepts while implementing the tasks.
+*/    
+
+
 public class Main {
     public static void main(String[] args) {
         PetShop shop = new PetShop();
